@@ -14,8 +14,6 @@ In the manifest, change this setting from `null` to `2`:
 
 ## Building and running
 
-This requires node-gyp, which requires python to build. On Windows machines, this is simplified by installing the `windows-build-tools` npm package as an administrator.
-
 Modify ./config.js with your own tenantId and clientId
 The tenantId is sometimes also called the Directory ID. It's a GUID.
 The clientId is sometimes also called the Application ID. It's a GUID.

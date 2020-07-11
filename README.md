@@ -2,6 +2,8 @@
 
 Azure OAuth2 authenticationCode flow with v2 tokens through swagger
 
+This is an example of how to get `express`, `passport`, `passport-azure-ad`, `swagger-ui-express`, and Azure working together in harmony.
+
 ## Create an Application Registration in Azure Active Directory
 
 In your Azure Active Directory tenant, create a new "App registration". For our purposes, this becomes our OAuth client definition.
